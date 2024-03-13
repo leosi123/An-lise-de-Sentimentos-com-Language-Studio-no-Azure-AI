@@ -28,3 +28,18 @@ Tired hotel with poor service
 <li>output do arquivo de aúdio:
 AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages. Empower smart infrastructure, create incredible entertainment experiences, and even save the planet. </li>
 
+## Insights
+<li>Assistentes Virtuais: Tecnologias como Siri, Alexa, Google Assistant e Cortana utilizam IA para entender comandos de voz e responder a consultas dos usuários.
+
+<li>Transcrição de Áudio para Texto: Ferramentas de transcrição automática, como o Google Speech-to-Text e o IBM Watson Speech to Text, usam IA para converter áudio em texto. Essas transcrições podem ser úteis em diversas áreas, como legenda automática de vídeos, transcrição de entrevistas, etc.
+
+<li>Análise de Sentimento em Mídias Sociais: Empresas usam IA para analisar sentimentos expressos em mídias sociais, como Twitter, Facebook e Instagram. Essa análise pode ser usada para entender a percepção do público em relação a produtos, marcas ou eventos.
+
+<li>Feedback de Clientes: Empresas usam IA para analisar as interações dos clientes em call centers, chats online e e-mails, identificando sentimentos e problemas comuns para melhorar a experiência do cliente.
+
+<li>Pesquisa de Mercado: Empresas utilizam IA para analisar pesquisas de mercado e opiniões de clientes, identificando tendências e preferências do consumidor.
+
+<li>Análise de Sentimento em Críticas de Filmes/Músicas/Livros: Plataformas como IMDb, Rotten Tomatoes e Goodreads usam IA para analisar resenhas e classificações de filmes, músicas e livros, gerando pontuações de sentimentos médios.
+
+<li>Tradução de Áudio em Tempo Real: Ferramentas de tradução automática, como o Google Translate, estão incorporando recursos de tradução de áudio em tempo real, onde a fala é traduzida instantaneamente em texto e voz.
+
